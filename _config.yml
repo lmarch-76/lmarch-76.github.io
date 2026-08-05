@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Laurentiu Marchis"
   pronouns         :  
-  bio              : "PhD student in Mathematical Statistics at The University of Cambridge"
-  location         : "Cambridge, UK", "https://www.dpmms.cam.ac.uk/"
+  bio              : "PhD student in Mathematical Statistics at <a href="https://www.dpmms.cam.ac.uk/" target="_blank" rel="noopener noreferrer">The University of Cambridge</a>"
+  location         : "Cambridge, UK"
   employer         : 
   uri              : # URL
   email            : lam223@cam.ac.uk 
