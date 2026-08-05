@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Website of Laurentiu Marchis"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-X
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a PhD student at the University of Cambridge supervised by Po-Ling Loh. I finished Part III in Mathematics in 2024, focusing on Statistics. Before that, I did my undergraduate degree in mathematics at Imperial College London. My research interests are broadly in algorithmic stability and optimization. Specifically, I work on problems related to differential privacy and robustness.
 
 LM personal website
 ======
