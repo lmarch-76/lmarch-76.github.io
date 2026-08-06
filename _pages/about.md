@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/Lugano_2023_12.jpg" alt="Lugano_2023_img" style="width: 90%; height: 290px; object-fit: cover;"> 
+<img src="/images/Lugano_2023_12.jpg" alt="Lugano_2023_img" style="width: 90%; height: 285px; object-fit: cover;"> 
 
 ## About me
 
