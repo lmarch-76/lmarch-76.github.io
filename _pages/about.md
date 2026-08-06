@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/Lugano_2023_12.jpg" alt="Lugano_2023_img" style="width: 90%; height: 285px; object-fit: cover;"> 
+
 
 ## About me
 
@@ -15,8 +15,9 @@ I am a PhD student at the University of Cambridge supervised by <a href="https:/
 ## Contact
 
 You can email me at: lam223 [at] cam.ac.uk
-Centre for Mathematical Sciences
-Wilberforce Road, Cambridge
+
+Centre for Mathematical Sciences<br>
+Wilberforce Road, Cambridge<br>
 CB3 0WB
 
 
