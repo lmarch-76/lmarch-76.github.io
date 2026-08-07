@@ -14,7 +14,7 @@ I am a PhD student at the University of Cambridge supervised by <a href="https:/
 
 ## Contact
 
-You can email me at: lam223 [at] cam.ac.uk
+You can email me at: lam223 [at] cam [dot] ac [dot] uk
 
 Centre for Mathematical Sciences<br>
 Wilberforce Road, Cambridge, CB3 0WB<br>
