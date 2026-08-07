@@ -23,7 +23,7 @@ repository               : "lmarch-76/lmarch-76.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Prof_pic.jpg"
   name             : "Laurentiu Marchis"
   pronouns         :  
   bio              : 'PhD student in Mathematical Statistics at <a href="https://www.dpmms.cam.ac.uk/">The University of Cambridge</a>'
